@@ -1,0 +1,5 @@
+opencv-python
+sockets
+websocket-client
+rel
+python-ffmpeg
